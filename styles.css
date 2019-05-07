@@ -1,23 +1,21 @@
     
 p {
-    color:white;
+    color:black;
+    font-family: 'Short Stack', cursive;
 }
 h1{
-    color:red;
+    color:white;
+    font-family: 'Bangers', cursive;
 }
 h2{
-    color:pink;
+    color:Yellow;
+    font-family: 'Special Elite', cursive;
 }
-h3{
-    color:green;
-}
-h4 {
-    color:yellow;
-}
+
 img{
     height:200px;
 }
 body {
     font-family: 'Anton', sans-serif;
-    background:black;
+    background-image:url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
 }
